@@ -1,11 +1,19 @@
 {
-   "files": [    
+   "files": [
+{
+         "name": "SG-VIP-001",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/SG-VIP-001.ovpn"
+      },
+
+{
+         "name": "TH-FREE-00",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-FREE-00.ovpn"
+      },
 
 {
          "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-001.ovpn"
       },
-
 
 {
          "name": "TH-VIP-002",
@@ -17,14 +25,23 @@
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-003.ovpn"
       },
 
-
 {
          "name": "TH-VIP-004",
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-004.ovpn"
-      }
+      },
 
-   ],
-"message":"02/06/2022\n\n•Version:2\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+{
+         "name": "TH-VIP-005",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-005.ovpn"
+      },
+
+{
+         "name": "TH-VIP-006",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-006.ovpn"
+      },
+
+],
+"message":"02/06/2022\n\n•Version:2\n•50ဘတ်ကိုတစ်လ\n\n•Add AIS& TRUEMOVE &DTAC\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"ALl New VIP" ,
    "version": 2
 }
