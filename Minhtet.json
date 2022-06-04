@@ -14,41 +14,55 @@
 
 
 {
-         "name": "TH-VIP-001",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-001.ovpn"
+         "name": "TH-VIP-CAT-001",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       },
 
 
 {
-         "name": "TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-002.ovpn"
+         "name": "TH-VIP-CAT-002",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       },
 
 {
-         "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-003.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-004",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-004.ovpn"
+         "name": "TH-VIP-CAT-003",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       },
 
 
 {
-         "name": "TH-VIP-005",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-005.ovpn"
+         "name": "TH-VIP-CAT-004",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       },
 
 
 {
-         "name": "TH-VIP-006",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-006.ovpn"
+         "name": "TH-VIP-CAT-005",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
+      },
+
+
+{
+         "name": "TH-VIP-CAT-006",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       }
 
    ],
-"message":"02/06/2022\n\n•Version:4\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"04/06/2022\n\n•Version:5\n•SERVER LIST
+==========
+FREE THAILAND SERVER 
+VIP SINGAPORE SERVER
+VIP THAILAND SERVER
+SUPPORT SIM & PROMO
+====================
+TRUEMOVE NO PRO
+DTAC NO PRO
+DTAC LAZADA
+DTAC LINE
+-----------------------------------------
+TH-VIP-CAT
+TH-VIP-HI SPEED
+TH- VIP-Z COM",
    "title":"ALl New VIP" ,
-   "version": 4
+   "version": 5
 }
