@@ -47,8 +47,16 @@
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
       }
 
+
+{
+         "name": "TH-VIP-HISPEED",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-HISPEED.ovpn"
+      }
+
+
+
    ],
-"message":"04/06/2022\n\n•Version:5\n•SERVER LIST
+"message":"04/06/2022\n\n•Version:6\n•SERVER LIST
 ==========
 FREE THAILAND SERVER 
 VIP SINGAPORE SERVER
@@ -64,5 +72,5 @@ TH-VIP-CAT
 TH-VIP-HI SPEED
 TH- VIP-Z COM",
    "title":"ALl New VIP" ,
-   "version": 5
+   "version": 6
 }
