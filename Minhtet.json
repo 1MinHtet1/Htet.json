@@ -2,65 +2,48 @@
    "files": [    
 
 {
-         "name": "SG-VIP-001",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/SG-VIP-001.ovpn"
+         "name": "TH-VIP-CAT-GAME-001",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-001.ovpn"
+
+
+{
+         "name": "TH-VIP-CAT-GAME-002",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-002.ovpn"
       },
 
 
 {
-         "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-FREE-00.ovpn"
+         "name": "TH-VIP-CAT-GAME-003",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-003.ovpn"
       },
 
 
 {
-         "name": "TH-VIP-CAT-001",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-001.ovpn"
-      },
+         "name": "TH-VIP-CAT-GAME-004",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-004.ovpn"
 
-
-{
-         "name": "TH-VIP-CAT-002",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-002.ovpn"
-      },
-
-{
-         "name": "TH-VIP-CAT-003",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-003.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-CAT-004",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-004.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-CAT-005",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-005.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-CAT-006",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-006.ovpn"
       },
 
 
 
 {
-         "name": "TH-VIP-HISPEED",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-HISPEED.ovpn"
+         "name": "TH-VIP-CAT-GAME-006",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-006.ovpn"
+      },
+
+
+
+{
+         "name": "TH-VIP-CAT-GAME-007",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-007.ovpn"
       }
 
 
 
    ],
-"message":"05/06/2022\n\n•Version:8\n•SERVER LIST
+"message":"15/07/2022\n\n•Version:9\n•SERVER LIST
 ==========
-FREE THAILAND SERVER 
-VIP SINGAPORE SERVER
+တစ်လ 50 ဘတ်
 VIP THAILAND SERVER
 SUPPORT SIM & PROMO
 ====================
@@ -69,9 +52,7 @@ DTAC NO PRO
 DTAC LAZADA
 DTAC LINE
 -----------------------------------------
-TH-VIP-CAT
-TH-VIP-HI SPEED
-TH- VIP-Z COM",
+TH-VIP-CAT-GAME",
    "title":"ALl New VIP" ,
-   "version": 8
+   "version": 9
 }
