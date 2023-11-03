@@ -1,12 +1,7 @@
 {
    "files": [ 
 
-{
-         "name": "TH-VIP-CAT-TRUE-YOUTUBE-001",
-         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-TRUE-YOUTUBE-001.ovpn"
-      },
       
-
 {
          "name": "TH-VIP-CAT-GAME-001",
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-001.ovpn"
@@ -52,12 +47,27 @@
 {
          "name": "TH-VIP-CAT-GAME-007",
          "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-CAT-GAME-007.ovpn"
-      }
+      },
+
+
+      
+{
+         "name": "TH-VIP-CAT-GAME-008",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-DTAC-008.ovpn"
+},
+
+
+
+      
+{
+         "name": "TH-VIP-CAT-GAME-009",
+         "url": "https://raw.githubusercontent.com/yeminhtet4541/htet/main/TH-VIP-TRUE-YT-009.ovpn"
+
 
 
 
    ],
-"message":"1 Nov 2023\n\n•Version:24\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"3 Nov 2023\n\n•Version:25\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"ALl New VIP" ,
-   "version": 24
+   "version": 25
 }
